@@ -1,0 +1,228 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 67108864 bytes for G1 virtual space
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   The process is running with CompressedOops enabled, and the Java Heap may be blocking the growth of the native heap
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+#   JVM is running with Unscaled Compressed Oops mode in which the Java heap is
+#     placed in the first 4GB address space. The Java Heap base address is the
+#     maximum limit for the native heap growth. Please use -XX:HeapBaseMinAddress
+#     to set the Java Heap base and to place the Java Heap above 4GB virtual address.
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (os_windows.cpp:3613), pid=7352, tid=7400
+#
+# JRE version:  (17.0.9+9) (build )
+# Java VM: OpenJDK 64-Bit Server VM (17.0.9+9, mixed mode, sharing, tiered, compressed oops, compressed class ptrs, g1 gc, windows-amd64)
+# No core dump will be written. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: -ea -Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8 -XX:+ShowCodeDetailsInExceptionMessages org.testng.remote.RemoteTestNG -serport 51453 -protocol json -d C:\Users\nishk\eclipse-workspace\PetStoreAutomation\test-output C:\Users\nishk\eclipse-workspace\PetStoreAutomation\testng.xml
+
+Host: Intel(R) Pentium(R) CPU  N3520  @ 2.16GHz, 4 cores, 3G,  Windows 10 , 64 bit Build 19041 (10.0.19041.3636)
+Time: Thu Jan 25 16:21:39 2024 Eastern Standard Time elapsed time: 0.044742 seconds (0d 0h 0m 0s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00000199ad7f9860):  JavaThread "Unknown thread" [_thread_in_vm, id=7400, stack(0x0000002bc6600000,0x0000002bc6700000)]
+
+Stack: [0x0000002bc6600000,0x0000002bc6700000]
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x67cf49]
+V  [jvm.dll+0x83478a]
+V  [jvm.dll+0x83624e]
+V  [jvm.dll+0x8368b3]
+V  [jvm.dll+0x247f1f]
+V  [jvm.dll+0x679d69]
+V  [jvm.dll+0x66e6ba]
+V  [jvm.dll+0x307e5b]
+V  [jvm.dll+0x30f306]
+V  [jvm.dll+0x35f0ce]
+V  [jvm.dll+0x35f2ff]
+V  [jvm.dll+0x2dea58]
+V  [jvm.dll+0x2df9c4]
+V  [jvm.dll+0x806031]
+V  [jvm.dll+0x36cf31]
+V  [jvm.dll+0x7e4aac]
+V  [jvm.dll+0x3f07af]
+V  [jvm.dll+0x3f23e1]
+C  [jli.dll+0x528f]
+C  [ucrtbase.dll+0x21bb2]
+C  [KERNEL32.DLL+0x17344]
+C  [ntdll.dll+0x526b1]
+
+
+---------------  P R O C E S S  ---------------
+
+Threads class SMR info:
+_java_thread_list=0x00007ffab159ee98, length=0, elements={
+}
+
+Java Threads: ( => current thread )
+
+Other Threads:
+  0x00000199ad834b70 GCTaskThread "GC Thread#0" [stack: 0x0000002bc6700000,0x0000002bc6800000] [id=6832]
+  0x00000199ad83d690 ConcurrentGCThread "G1 Main Marker" [stack: 0x0000002bc6800000,0x0000002bc6900000] [id=6272]
+  0x00000199ad83e8b0 ConcurrentGCThread "G1 Conc#0" [stack: 0x0000002bc6900000,0x0000002bc6a00000] [id=7388]
+
+[error occurred during error reporting (printing all threads), id 0xc0000005, EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x00007ffab0d5f497]
+
+VM state: not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread:  ([mutex/lock_event])
+[0x00000199ad7f4770] Heap_lock - owner thread: 0x00000199ad7f9860
+
+Heap address: 0x00000000c1a00000, size: 998 MB, Compressed Oops mode: 32-bit
+
+CDS archive(s) mapped at: [0x0000000000000000-0x0000000000000000-0x0000000000000000), size 0, SharedBaseAddress: 0x0000000800000000, ArchiveRelocationMode: 1.
+Narrow klass base: 0x0000000000000000, Narrow klass shift: 0, Narrow klass range: 0x0
+
+GC Precious Log:
+<Empty>
+
+Heap:
+ garbage-first heap   total 0K, used 0K [0x00000000c1a00000, 0x0000000100000000)
+  region size 1024K, 0 young (0K), 0 survivors (0K)
+
+[error occurred during error reporting (printing heap information), id 0xc0000005, EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x00007ffab1146c79]
+
+GC Heap History (0 events):
+No events
+
+Dll operation events (1 events):
+Event: 0.032 Loaded shared library C:\Users\nishk\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin\java.dll
+
+Deoptimization events (0 events):
+No events
+
+Classes unloaded (0 events):
+No events
+
+Classes redefined (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+VM Operations (0 events):
+No events
+
+Events (0 events):
+No events
+
+
+Dynamic libraries:
+0x00007ff695120000 - 0x00007ff69512e000 	C:\Users\nishk\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin\javaw.exe
+0x00007ffada970000 - 0x00007ffadab68000 	C:\Windows\SYSTEM32\ntdll.dll
+0x00007ffad89c0000 - 0x00007ffad8a7d000 	C:\Windows\System32\KERNEL32.DLL
+0x00007ffad82d0000 - 0x00007ffad85c6000 	C:\Windows\System32\KERNELBASE.dll
+0x00007ffad81d0000 - 0x00007ffad82d0000 	C:\Windows\System32\ucrtbase.dll
+0x00007ffad4900000 - 0x00007ffad4917000 	C:\Users\nishk\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin\jli.dll
+0x00007ffad9020000 - 0x00007ffad91be000 	C:\Windows\System32\USER32.dll
+0x00007ffad8040000 - 0x00007ffad8062000 	C:\Windows\System32\win32u.dll
+0x00007ffad8eb0000 - 0x00007ffad8edc000 	C:\Windows\System32\GDI32.dll
+0x00007ffad8870000 - 0x00007ffad898a000 	C:\Windows\System32\gdi32full.dll
+0x00007ffad87d0000 - 0x00007ffad886d000 	C:\Windows\System32\msvcp_win.dll
+0x00007ffad48e0000 - 0x00007ffad48fb000 	C:\Users\nishk\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin\VCRUNTIME140.dll
+0x00007ffac6500000 - 0x00007ffac679a000 	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5\COMCTL32.dll
+0x00007ffad8e00000 - 0x00007ffad8e9e000 	C:\Windows\System32\msvcrt.dll
+0x00007ffad8c30000 - 0x00007ffad8c60000 	C:\Windows\System32\IMM32.DLL
+0x00007ffad5730000 - 0x00007ffad573c000 	C:\Users\nishk\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin\vcruntime140_1.dll
+0x00007ffacc170000 - 0x00007ffacc1fd000 	C:\Users\nishk\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin\msvcp140.dll
+0x00007ffab0a70000 - 0x00007ffab16d1000 	C:\Users\nishk\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin\server\jvm.dll
+0x00007ffada7a0000 - 0x00007ffada853000 	C:\Windows\System32\ADVAPI32.dll
+0x00007ffad8d60000 - 0x00007ffad8dff000 	C:\Windows\System32\sechost.dll
+0x00007ffad9cf0000 - 0x00007ffad9e16000 	C:\Windows\System32\RPCRT4.dll
+0x00007ffad8990000 - 0x00007ffad89b7000 	C:\Windows\System32\bcrypt.dll
+0x00007ffad7f20000 - 0x00007ffad7f6b000 	C:\Windows\SYSTEM32\POWRPROF.dll
+0x00007ffad3a60000 - 0x00007ffad3a69000 	C:\Windows\SYSTEM32\WSOCK32.dll
+0x00007ffada8c0000 - 0x00007ffada92b000 	C:\Windows\System32\WS2_32.dll
+0x00007ffac9c60000 - 0x00007ffac9c87000 	C:\Windows\SYSTEM32\WINMM.dll
+0x00007ffacb6f0000 - 0x00007ffacb6fa000 	C:\Windows\SYSTEM32\VERSION.dll
+0x00007ffad7f00000 - 0x00007ffad7f12000 	C:\Windows\SYSTEM32\UMPDC.dll
+0x00007ffad5e10000 - 0x00007ffad5e22000 	C:\Windows\SYSTEM32\kernel.appcore.dll
+0x00007ffad3a50000 - 0x00007ffad3a5a000 	C:\Users\nishk\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin\jimage.dll
+0x00007ffac9a70000 - 0x00007ffac9c54000 	C:\Windows\SYSTEM32\DBGHELP.DLL
+0x00007ffac8f80000 - 0x00007ffac8fb4000 	C:\Windows\SYSTEM32\dbgcore.DLL
+0x00007ffad85d0000 - 0x00007ffad8652000 	C:\Windows\System32\bcryptPrimitives.dll
+0x00007ffad2aa0000 - 0x00007ffad2ac5000 	C:\Users\nishk\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin\java.dll
+
+dbghelp: loaded successfully - version: 4.0.5 - missing functions: none
+symbol engine: initialized successfully - sym options: 0x614 - pdb path: .;C:\Users\nishk\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin;C:\Windows\SYSTEM32;C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5;C:\Users\nishk\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin\server
+
+VM Arguments:
+jvm_args: -ea -Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8 -XX:+ShowCodeDetailsInExceptionMessages 
+java_command: org.testng.remote.RemoteTestNG -serport 51453 -protocol json -d C:\Users\nishk\eclipse-workspace\PetStoreAutomation\test-output C:\Users\nishk\eclipse-workspace\PetStoreAutomation\testng.xml
+java_class_path (initial): C:\Users\nishk\eclipse\java-2023-122\eclipse\configuration\org.eclipse.osgi\522\0\.cp\lib\testng-remote.jar;C:\Users\nishk\eclipse-workspace\PetStoreAutomation\target\test-classes;C:\Users\nishk\eclipse-workspace\PetStoreAutomation\target\classes;C:\Users\nishk\.m2\repository\io\rest-assured\rest-assured\5.3.0\rest-assured-5.3.0.jar;C:\Users\nishk\.m2\repository\org\apache\groovy\groovy\4.0.6\groovy-4.0.6.jar;C:\Users\nishk\.m2\repository\org\apache\groovy\groovy-xml\4.0.6\groovy-xml-4.0.6.jar;C:\Users\nishk\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\nishk\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\nishk\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\nishk\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\nishk\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\nishk\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\nishk\.m2\repository\io\rest-assured\xml-path\5.3.0\xml-path-5.3.0.jar;C:\Users\nishk\.m2\repository\io\rest-assured\json-path\5.1.1\json-path-5.1.1.jar;C:\Users\nishk\.m2\repository\org\apache\groovy\groovy-json\4.0.1\groovy-json-4.0.1.jar;C:\Users\nishk\.m2\repository\io\rest-assured\rest-assured-common\5.1.1\rest-assured-common-5.1.1.jar;C:\Users\nishk\.m2\repository\org\json\json\20220924\json-20220924.jar;C:\Users\nishk\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\nishk\.m2\repository\org\testng\testng\7.7.1\testng-7.7.1.jar;C:\Users\nishk\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\nishk\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\nishk\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\nishk\.m2\repository\com\github\scribejava\scribejava-apis\8.3.3\scribejava-apis-8.3.3.jar;C:\Users\nishk\.m2\repository\com\github\scri
+Launcher Type: SUN_STANDARD
+
+[Global flags]
+     intx CICompilerCount                          = 3                                         {product} {ergonomic}
+     uint ConcGCThreads                            = 1                                         {product} {ergonomic}
+     uint G1ConcRefinementThreads                  = 4                                         {product} {ergonomic}
+   size_t G1HeapRegionSize                         = 1048576                                   {product} {ergonomic}
+    uintx GCDrainStackTargetSize                   = 64                                        {product} {ergonomic}
+   size_t InitialHeapSize                          = 67108864                                  {product} {ergonomic}
+   size_t MarkStackSize                            = 4194304                                   {product} {ergonomic}
+   size_t MaxHeapSize                              = 1046478848                                {product} {ergonomic}
+   size_t MinHeapDeltaBytes                        = 1048576                                   {product} {ergonomic}
+   size_t MinHeapSize                              = 8388608                                   {product} {ergonomic}
+    uintx NonNMethodCodeHeapSize                   = 5832780                                {pd product} {ergonomic}
+    uintx NonProfiledCodeHeapSize                  = 122912730                              {pd product} {ergonomic}
+    uintx ProfiledCodeHeapSize                     = 122912730                              {pd product} {ergonomic}
+    uintx ReservedCodeCacheSize                    = 251658240                              {pd product} {ergonomic}
+     bool SegmentedCodeCache                       = true                                      {product} {ergonomic}
+     bool ShowCodeDetailsInExceptionMessages       = true                                   {manageable} {command line}
+   size_t SoftMaxHeapSize                          = 1046478848                             {manageable} {ergonomic}
+     bool UseCompressedClassPointers               = true                           {product lp64_product} {ergonomic}
+     bool UseCompressedOops                        = true                           {product lp64_product} {ergonomic}
+     bool UseG1GC                                  = true                                      {product} {ergonomic}
+     bool UseLargePagesIndividualAllocation        = false                                  {pd product} {ergonomic}
+
+Logging:
+Log output configuration:
+ #0: stdout all=warning uptime,level,tags
+ #1: stderr all=off uptime,level,tags
+
+Environment Variables:
+JAVA_HOME=C:\Program Files\Java\jdk-17
+PATH=C:/Users/nishk/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858/jre/bin/server;C:/Users/nishk/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Users\nishk\Downloads\WINDOWS.X64_213000_db_home\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-17\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\nishk\AppData\Local\Microsoft\WindowsApps;;C:\Users\nishk\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\nishk\eclipse\java-2023-122\eclipse;
+USERNAME=nishk
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 55 Stepping 3, GenuineIntel
+TMP=C:\Users\nishk\AppData\Local\Temp
+TEMP=C:\Users\nishk\AppData\Local\Temp
+
+
+
+Periodic native trim disabled
+
+
+---------------  S Y S T E M  ---------------
+
+OS:
+ Windows 10 , 64 bit Build 19041 (10.0.19041.3636)
+OS uptime: 0 days 1:42 hours
+
+CPU: total 4 (initial active 4) (4 cores per cpu, 1 threads per core) family 6 model 55 stepping 3 microcode 0x320, cx8, cmov, fxsr, mmx, 3dnowpref, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, tsc, tscinvbit, erms, clmul, clflush
+Processor Information for all 4 processors :
+  Max Mhz: 2159, Current Mhz: 2159, Mhz Limit: 2159
+
+Memory: 4k page, system-wide physical 3984M (220M free)
+TotalPageFile size 3984M (AvailPageFile size 31M)
+current process WorkingSet (physical memory assigned to process): 10M, peak: 10M
+current process commit charge ("private bytes"): 51M, peak: 115M
+
+vm_info: OpenJDK 64-Bit Server VM (17.0.9+9) for windows-amd64 JRE (17.0.9+9), built on Oct 26 2023 14:01:42 by "admin" with MS VC++ 16.10 / 16.11 (VS2019)
+
+END.

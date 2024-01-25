@@ -1,0 +1,9 @@
+"16:59.30.886 [main]  INFO  api.test.UserTests -  -----------creating user--------------
+""16:59.46.546 [main]  INFO  api.test.UserTests -  -----------user is created--------------
+""16:59.46.755 [main]  INFO  api.test.UserTests -  -----------getting user info--------------
+""16:59.47.119 [main]  INFO  api.test.UserTests -  -----------user info is displayed--------------
+""16:59.47.157 [main]  INFO  api.test.UserTests -  -----------updating user info--------------
+""16:59.47.510 [main]  INFO  api.test.UserTests -  -----------user is updated--------------
+""16:59.47.742 [main]  INFO  api.test.UserTests -  -----------deleting user--------------
+""16:59.47.962 [main]  INFO  api.test.UserTests -  -----------user is deleted--------------
+"
