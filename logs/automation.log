@@ -30,4 +30,12 @@
 ""15:34.05.825 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
 ""15:34.06.030 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
 ""15:34.06.234 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""18:11.13.564 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""18:11.21.705 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""18:11.21.783 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""18:11.22.160 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""18:11.22.166 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""18:11.22.417 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""18:11.22.647 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""18:11.22.842 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
 "
