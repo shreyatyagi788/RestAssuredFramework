@@ -4,7 +4,7 @@ import java.io.IOException;
 
 import org.testng.annotations.DataProvider;
 
-public class DataProviders {
+public class DataProvidersForUsersData {
 	
 	@DataProvider(name="data")
 	public String[][] getAllData() throws IOException

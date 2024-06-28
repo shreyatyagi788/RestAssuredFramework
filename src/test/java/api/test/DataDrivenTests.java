@@ -5,12 +5,12 @@ import org.testng.annotations.Test;
 
 import api.endpoints.userEndpoints;
 import api.payload.User;
-import api.utilities.DataProviders;
+import api.utilities.DataProvidersForUsersData;
 import io.restassured.response.Response;
 
 public class DataDrivenTests {
 
-	@Test(priority=1,dataProvider="data",dataProviderClass=DataProviders.class)
+	@Test(priority=1,dataProvider="data",dataProviderClass=DataProvidersForUsersData.class)
 	public void testPostUser(String userID,String userName,String fname,String lname,String useremail,String pwd,String ph) 
 	{
 		User userPayload=new User();
@@ -29,7 +29,7 @@ public class DataDrivenTests {
 
 	}
 	
-	@Test(priority=2,dataProvider="UserNames",dataProviderClass=DataProviders.class)
+	@Test(priority=2,dataProvider="UserNames",dataProviderClass=DataProvidersForUsersData.class)
 	public void testDeleteUserByName(String userName)
 	{
 		

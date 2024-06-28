@@ -1,0 +1,496 @@
+"15:09.22.988 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""15:09.22.996 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""15:09.23.237 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""15:09.23.240 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""15:09.23.439 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""15:09.37.561 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""15:09.39.806 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""15:09.39.821 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""15:09.40.056 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""15:09.40.061 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""15:09.40.273 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""15:09.40.486 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""15:09.40.672 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""15:09.40.759 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""15:09.41.005 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""15:09.41.007 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""15:09.41.199 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""15:09.41.202 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""15:09.41.400 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""15:09.41.569 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""15:09.41.739 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""15:09.41.753 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""15:09.41.953 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""15:09.41.955 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""15:09.42.248 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""15:09.42.251 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""15:09.42.423 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""15:23.10.771 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""15:23.13.266 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""15:23.13.277 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""15:23.13.475 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""15:23.13.480 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""15:23.13.682 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""15:23.13.871 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""15:23.14.043 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""15:23.14.161 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""15:23.14.400 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""15:23.14.403 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""15:23.14.574 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""15:23.14.579 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""15:23.14.811 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""15:23.14.975 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""15:23.15.168 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""15:23.15.181 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""15:23.15.359 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""15:23.15.362 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""15:23.15.601 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""15:23.15.603 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""15:23.15.806 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""15:23.24.732 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""15:23.27.101 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""15:23.27.117 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""15:23.27.407 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""15:23.27.407 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""15:23.27.596 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""15:23.27.784 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""15:23.27.957 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""15:23.28.067 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""15:23.28.328 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""15:23.28.328 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""15:23.28.503 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""15:23.28.503 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""15:23.28.692 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""15:23.28.912 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""15:23.29.085 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""15:23.29.101 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""15:23.29.315 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""15:23.29.315 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""15:23.29.528 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""15:23.29.528 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""15:23.29.701 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""15:23.38.338 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""15:23.40.647 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""15:23.40.662 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""15:23.40.898 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""15:23.40.898 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""15:23.41.102 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""15:23.41.274 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""15:23.41.427 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""15:23.41.600 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""15:23.41.788 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""15:23.41.788 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""15:23.41.961 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""15:23.41.961 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""15:23.42.150 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""15:23.42.322 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""15:23.42.508 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""15:23.42.539 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""15:23.42.714 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""15:23.42.714 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""15:23.42.986 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""15:23.42.986 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""15:23.43.187 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""15:25.32.339 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""15:25.34.632 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""15:25.34.644 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""15:25.34.848 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""15:25.34.850 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""15:25.35.074 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""15:25.35.260 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""15:25.35.468 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""15:25.35.591 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""15:25.35.808 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""15:25.35.811 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""15:25.36.014 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""15:25.36.017 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""15:25.36.212 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""15:25.36.405 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""15:25.36.586 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""15:25.36.603 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""15:25.36.801 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""15:25.36.803 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""15:25.37.080 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""15:25.37.082 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""15:25.37.273 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""15:25.46.453 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""15:25.48.802 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""15:25.48.817 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""15:25.49.022 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""15:25.49.022 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""15:25.49.251 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""15:25.49.451 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""15:25.49.636 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""15:25.49.754 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""15:25.49.953 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""15:25.49.968 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""15:25.50.172 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""15:25.50.172 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""15:25.50.372 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""15:25.50.546 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""15:25.50.722 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""15:25.50.753 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""15:25.50.959 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""15:25.50.959 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""15:25.51.179 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""15:25.51.179 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""15:25.51.353 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""15:25.59.312 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""15:26.01.578 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""15:26.01.591 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""15:26.01.849 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""15:26.01.849 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""15:26.02.061 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""15:26.02.289 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""15:26.02.494 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""15:26.02.602 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""15:26.02.809 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""15:26.02.825 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""15:26.03.002 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""15:26.03.002 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""15:26.03.191 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""15:26.03.369 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""15:26.03.564 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""15:26.03.575 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""15:26.03.764 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""15:26.03.764 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""15:26.04.018 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""15:26.04.018 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""15:26.04.175 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""15:49.32.927 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""15:49.35.328 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""15:49.35.341 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""15:49.35.922 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""15:49.35.928 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""15:49.36.136 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""15:49.36.346 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""15:49.36.532 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""15:49.36.722 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""15:49.36.899 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""15:49.36.901 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""15:49.37.067 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""15:49.37.071 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""15:49.37.236 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""15:49.37.395 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""15:49.37.584 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""15:49.37.617 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""15:49.37.795 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""15:49.37.797 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""15:49.38.052 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""15:49.38.054 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""15:49.38.216 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""15:50.43.997 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""15:50.46.357 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""15:50.46.373 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""15:50.46.583 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""15:50.46.586 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""15:50.46.779 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""15:50.46.954 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""15:50.47.119 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""15:50.47.272 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""15:50.47.496 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""15:50.47.498 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""15:50.47.665 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""15:50.47.668 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""15:50.47.881 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""15:50.48.046 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""15:50.48.224 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""15:50.48.246 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""15:50.48.413 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""15:50.48.416 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""15:50.48.672 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""15:50.48.674 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""15:50.48.850 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""15:51.00.679 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""15:51.03.059 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""15:51.03.075 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""15:51.03.602 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""15:51.03.618 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""15:51.03.791 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""15:51.03.964 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""15:51.04.137 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""15:51.04.278 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""15:51.04.493 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""15:51.04.493 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""15:51.04.666 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""15:51.04.666 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""15:51.04.854 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""15:51.05.026 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""15:51.05.183 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""15:51.05.199 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""15:51.05.402 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""15:51.05.402 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""15:51.05.644 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""15:51.05.644 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""15:51.05.816 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""15:53.07.978 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""15:53.10.300 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""15:53.10.316 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""15:53.10.585 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""15:53.10.585 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""15:53.10.790 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""15:53.10.994 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""15:53.11.183 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""15:53.11.371 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""15:53.11.593 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""15:53.11.593 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""15:53.11.828 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""15:53.11.828 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""15:53.12.018 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""15:53.12.206 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""15:53.12.435 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""15:53.12.439 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""15:53.12.638 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""15:53.12.640 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""15:53.12.894 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""15:53.12.894 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""15:53.13.140 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""16:55.49.542 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""16:55.52.136 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""16:55.52.153 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""16:55.52.367 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""16:55.52.370 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""16:55.52.568 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""16:55.52.740 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""16:55.52.932 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""16:55.53.033 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""16:55.53.283 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""16:55.53.283 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""16:55.53.459 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""16:55.53.464 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""16:55.53.646 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""16:55.53.840 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""16:55.54.013 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""16:55.54.028 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""16:55.54.217 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""16:55.54.233 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""16:55.54.485 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""16:55.54.486 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""16:55.54.658 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""16:56.16.223 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""16:56.18.507 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""16:56.18.523 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""16:56.18.748 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""16:56.18.754 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""16:56.18.955 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""16:56.19.152 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""16:56.19.349 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""16:56.19.429 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""16:56.19.639 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""16:56.19.641 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""16:56.19.805 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""16:56.19.810 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""16:56.20.002 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""16:56.20.185 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""16:56.20.358 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""16:56.20.377 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""16:56.20.583 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""16:56.20.586 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""16:56.20.836 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""16:56.20.839 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""16:56.21.007 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""17:08.07.118 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""17:08.09.632 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""17:08.09.646 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""17:08.09.866 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""17:08.09.870 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""17:08.10.075 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""17:08.10.278 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""17:08.10.488 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""17:08.10.608 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""17:08.10.820 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""17:08.10.823 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""17:08.11.024 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""17:08.11.028 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""17:08.11.221 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""17:08.11.395 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""17:08.11.597 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""17:08.11.613 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""17:08.11.809 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""17:08.11.810 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""17:08.12.042 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""17:08.12.044 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""17:08.12.212 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""17:24.19.856 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""17:24.22.483 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""17:24.22.499 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""17:24.22.717 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""17:24.22.722 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""17:24.22.917 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""17:24.23.108 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""17:24.23.290 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""17:24.23.437 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""17:24.23.623 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""17:24.23.626 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""17:24.23.805 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""17:24.23.810 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""17:24.24.000 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""17:24.24.197 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""17:24.24.528 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""17:24.24.544 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""17:24.24.739 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""17:24.24.742 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""17:24.25.029 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""17:24.25.031 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""17:24.25.195 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""17:31.17.742 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""17:31.20.342 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""17:31.20.356 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""17:31.20.573 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""17:31.20.577 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""17:31.20.782 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""17:31.20.978 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""17:31.21.171 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""17:31.21.273 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""17:31.21.467 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""17:31.21.470 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""17:31.21.635 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""17:31.21.639 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""17:31.21.823 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""17:31.21.996 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""17:31.22.163 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""17:31.22.177 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""17:31.22.366 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""17:31.22.368 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""17:31.22.631 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""17:31.22.634 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""17:31.22.816 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""17:31.37.644 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""17:31.39.893 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""17:31.39.893 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""17:31.40.113 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""17:31.40.113 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""17:31.40.333 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""17:31.40.505 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""17:31.40.683 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""17:31.40.777 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""17:31.41.030 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""17:31.41.030 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""17:31.41.206 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""17:31.41.212 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""17:31.41.497 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""17:31.41.686 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""17:31.41.851 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""17:31.41.866 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""17:31.42.333 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""17:31.42.333 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""17:31.42.571 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""17:31.42.573 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""17:31.42.742 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""17:35.45.832 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""17:35.48.382 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""17:35.48.396 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""17:35.48.622 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""17:35.48.626 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""17:35.48.831 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""17:35.49.030 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""17:35.49.221 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""17:35.49.333 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""17:35.49.532 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""17:35.49.535 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""17:35.49.699 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""17:35.49.707 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""17:35.49.909 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""17:35.50.089 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""17:35.50.298 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""17:35.50.313 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""17:35.50.524 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""17:35.50.526 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""17:35.50.798 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""17:35.50.802 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""17:35.50.972 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""17:36.15.968 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""17:36.18.241 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""17:36.18.265 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""17:36.18.510 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""17:36.18.522 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""17:36.18.731 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""17:36.18.928 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""17:36.19.097 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""17:36.19.208 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""17:36.19.432 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""17:36.19.437 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""17:36.19.613 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""17:36.19.613 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""17:36.19.806 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""17:36.19.991 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""17:36.20.172 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""17:36.20.187 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""17:36.20.364 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""17:36.20.364 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""17:36.20.659 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""17:36.20.659 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""17:36.20.833 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""17:44.31.685 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""17:44.34.336 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""17:44.34.348 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""17:44.34.590 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""17:44.34.593 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""17:44.34.811 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""17:44.35.006 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""17:44.35.195 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""17:44.35.349 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""17:44.35.572 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""17:44.35.575 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""17:44.35.760 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""17:44.35.762 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""17:44.35.953 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""17:44.36.153 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""17:44.36.355 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""17:44.36.370 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""17:44.36.560 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""17:44.36.562 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""17:44.36.804 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""17:44.36.806 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""17:44.36.970 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""17:46.05.636 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""17:46.08.053 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""17:46.08.100 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""17:46.08.352 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""17:46.08.352 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""17:46.08.588 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""17:46.08.789 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""17:46.08.978 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""17:46.09.152 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""17:46.09.373 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""17:46.09.373 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""17:46.09.578 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""17:46.09.578 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""17:46.09.777 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""17:46.09.961 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""17:46.10.150 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""17:46.10.165 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""17:46.10.356 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""17:46.10.356 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""17:46.10.623 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""17:46.10.638 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""17:46.10.812 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""18:04.01.365 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""18:04.04.192 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""18:04.04.207 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""18:04.04.431 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""18:04.04.433 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""18:04.04.618 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+""18:04.04.791 [main]  INFO  api.test.PetTests -  ************* Deleting the pet ****************
+""18:04.04.948 [main]  INFO  api.test.PetTests -  ************* Pet is deleted ****************
+""18:04.04.995 [main]  INFO  api.test.UserTests2 -  -----------creating user--------------
+""18:04.05.168 [main]  INFO  api.test.UserTests2 -  -----------user is created--------------
+""18:04.05.168 [main]  INFO  api.test.UserTests2 -  -----------getting user info--------------
+""18:04.05.335 [main]  INFO  api.test.UserTests2 -  -----------user info is displayed--------------
+""18:04.05.335 [main]  INFO  api.test.UserTests2 -  -----------updating user info--------------
+""18:04.05.524 [main]  INFO  api.test.UserTests2 -  -----------user is updated--------------
+""18:04.05.743 [main]  INFO  api.test.UserTests2 -  -----------deleting user--------------
+""18:04.06.932 [main]  INFO  api.test.UserTests2 -  -----------user is deleted--------------
+""18:04.06.939 [main]  INFO  api.test.StoreTests -  ************* Creating a order for pet ****************
+""18:04.07.105 [main]  INFO  api.test.StoreTests -  ************* Pet order is created ****************
+""18:04.07.105 [main]  INFO  api.test.StoreTests -  ************* Reading the pet order details ****************
+""18:04.07.293 [main]  INFO  api.test.StoreTests -  ************* Pet order details are displayed ****************
+""18:04.07.293 [main]  INFO  api.test.StoreTests -  ************* Deleting the order ****************
+""18:04.07.461 [main]  INFO  api.test.StoreTests -  ************* Order is deleted ****************
+""16:19.18.901 [main]  INFO  api.test.PetTests -  ************* Creating pet ****************
+""16:19.21.935 [main]  INFO  api.test.PetTests -  ************* Pet is created ****************
+""16:19.21.945 [main]  INFO  api.test.PetTests -  ************* Reading the pet details ****************
+""16:19.22.228 [main]  INFO  api.test.PetTests -  ************* Pet details are displayed ****************
+""16:19.22.231 [main]  INFO  api.test.PetTests -  ************* Updating the pet details ****************
+""16:19.22.466 [main]  INFO  api.test.PetTests -  ************* Pet details are updated ****************
+"
